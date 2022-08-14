@@ -27,3 +27,7 @@ The objective of this challenge is to predict the classes of disease of a rice p
 | ------------- | ------------- | --------    | ------ | ------- |
 | `ResNet34`       | 224        | `5`   |        `yes`|  `0.221`  |
 | `ResNet50`         | 224         | `10`   |    `yes`|  `0.134`  |
+
+
+## Contributors
+- [Nken allassan](https://github.com/matzolla/)
