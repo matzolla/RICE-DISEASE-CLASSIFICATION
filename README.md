@@ -1,6 +1,6 @@
 # RICE-DISEASE-CLASSIFICATION
 
-##Prorblem statement
+## Prorblem statement
 
 Rice is a staple crop in Egypt, but despite Egypt’s position as the top rice producer in Africa, it still relies on imports
 to meet the demands of its population. One of the main causes of this gap in Egypt is rice blast disease, which is
