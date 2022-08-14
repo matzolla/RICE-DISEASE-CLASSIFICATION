@@ -9,3 +9,7 @@ blast, but rice blast is easily misclassified as brown spot disease - both are f
 in their early stage. With the current scarcity of experienced agricultural extension officers in the country, there is a clear
 case for recent technological advances in computer vision to help in early diagnosis, particularly by using multi-spectral
 images of crops.
+
+## Objective
+
+The objective of this challenge is to predict the classes of disease of a rice plant in RGB and Infrared images.
