@@ -31,3 +31,6 @@ The objective of this challenge is to predict the classes of disease of a rice p
 
 ## Contributors
 - [Nken allassan](https://github.com/matzolla/)
+- [Nancy Fosua Boakye](https://)
+- [Megne Ornela](https://)
+- [Kouame Mathurin](https://)
