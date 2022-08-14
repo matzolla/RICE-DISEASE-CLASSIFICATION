@@ -13,3 +13,10 @@ images of crops.
 ## Objective
 
 The objective of this challenge is to predict the classes of disease of a rice plant in RGB and Infrared images.
+
+## Method
+
+- Transferlearning using resnet34 and resnet50 pretrained models
+- Test time augmentation 
+- Hue augmentation
+- Image side-cropping (didn't work)
