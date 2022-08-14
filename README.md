@@ -17,7 +17,7 @@ The objective of this challenge is to predict the classes of disease of a rice p
 ## Method
 
 - Transfer learning using [resnet34](https://arxiv.org/abs/1512.03385) and [resnet50](https://arxiv.org/abs/1512.03385) pretrained models using fastai
-- Test time augmentation 
+- Test time augmentation [TTA](https://openaccess.thecvf.com/content/ICCV2021/papers/Shanmugam_Better_Aggregation_in_Test-Time_Augmentation_ICCV_2021_paper.pdf)
 - Hue augmentation
 - Image side-cropping (didn't work)
 
