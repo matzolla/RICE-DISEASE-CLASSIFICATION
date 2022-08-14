@@ -22,9 +22,8 @@ The objective of this challenge is to predict the classes of disease of a rice p
 - Image side-cropping (didn't work)
 
 ## Results
-|___________|
-|           |
-|           |
-|
-|
 
+| FirstName     | LastName      | City   
+| ------------- | ------------- | --------    |
+| `John`        | Test1         | `NewYork`   |
+| `Bob`         | Test2         | `Toronto`   |
