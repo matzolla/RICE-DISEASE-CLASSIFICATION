@@ -23,7 +23,7 @@ The objective of this challenge is to predict the classes of disease of a rice p
 
 ## Results
 
-| Models    | LastName      | City   
-| ------------- | ------------- | --------    |
-| `ResNet34`       | Test1         | `NewYork`   |
-| `ResNet50`         | Test2         | `Toronto`   |
+| Models    | Image size      | Number of epoch | TTA |  Logloss|
+| ------------- | ------------- | --------    | ------ | ------- |
+| `ResNet34`       | 224        | `5`   |        `yes`|  `0.221`  |
+| `ResNet50`         | 224         | `10`   |    `yes`|  `0.134`  |
