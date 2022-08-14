@@ -16,7 +16,10 @@ The objective of this challenge is to predict the classes of disease of a rice p
 
 ## Method
 
-- Transferlearning using resnet34 and resnet50 pretrained models
+- Transferlearning using [resnet34]([https://pages.github.com/](https://arxiv.org/abs/1512.03385)) and [resnet50]([https://pages.github.com/](https://arxiv.org/abs/1512.03385)) pretrained models using fastai
 - Test time augmentation 
 - Hue augmentation
 - Image side-cropping (didn't work)
+
+## Results
+
